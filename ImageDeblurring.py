@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import filedialog
 import os
 import sys
 from PIL import Image, ImageTk
